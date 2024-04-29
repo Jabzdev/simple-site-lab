@@ -63,3 +63,10 @@ img {
   font-size: 20px;
   line-height: 30px;
 }
+
+span {
+  color: gray;
+  font-size: 1.65rem;
+  margin-left: -8px;
+  font-weight: bold;
+}
